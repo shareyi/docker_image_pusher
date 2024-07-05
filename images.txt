@@ -1,2 +1,3 @@
 mongo
 wurstmeister/kafka
+wurstmeister/zookeeper
