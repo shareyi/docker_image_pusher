@@ -1,3 +1,4 @@
 mongo
 wurstmeister/kafka
 wurstmeister/zookeeper
+bitnami/etcd:3.5.13 etcd
